@@ -2,10 +2,10 @@ import pg from 'pg';
 const { Client }= pg;
 
 const config={
-    user: 'movies_bd_jr7t_user',
-    host: 'dpg-cs66utrtq21c73dp1vkg-a.oregon-postgres.render.com',
-    database: 'movies_bd_jr7t',
-    password: '3n8WIjf8Z6Xm6i970oYN43w4UPAHigkg',
+    user: 'movies_bd',
+    host: 'dpg-csaqtvo8fa8c73crvpa0-a.oregon-postgres.render.com',
+    database: 'movies_bd_ityp',
+    password: 'MqekCbV7S2ppWsT25IOwcgUXeOt0V3FS',
     port: 5432,
     ssl: {
         rejectUnauthorized: false
